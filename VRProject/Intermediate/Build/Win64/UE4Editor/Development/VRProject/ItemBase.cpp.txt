@@ -1,0 +1,3 @@
+C:\Users\361rj\OneDrive\Documents\Unreal Projects\VRProject\Intermediate\Build\Win64\UE4Editor\Development\VRProject\Definitions.VRProject.h
+C:\Users\361rj\OneDrive\Documents\Unreal Projects\VRProject\Source\VRProject\ItemBase.h
+C:\Users\361rj\OneDrive\Documents\Unreal Projects\VRProject\Intermediate\Build\Win64\UE4Editor\Inc\VRProject\ItemBase.generated.h

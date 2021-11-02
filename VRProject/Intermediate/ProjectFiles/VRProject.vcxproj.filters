@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\VRProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{A0A9AD4D-46A4-4058-8322-7077AD718A83}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\VRProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\VRProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{547BAAD0-C2C0-49D9-8F58-C5A9A9497D0F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\VRProject">
+      <UniqueIdentifier>{9891020C-E6AD-4C36-9866-E2A70377F79E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\VRProject\ItemBase.cpp">
+      <Filter>Source\VRProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VRProject\ItemBase.h">
+      <Filter>Source\VRProject</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\VRProject\VRProject.Build.cs">
+      <Filter>Source\VRProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\VRProject\VRProject.cpp">
+      <Filter>Source\VRProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VRProject\VRProject.h">
+      <Filter>Source\VRProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\VRProject\VRProjectGameModeBase.cpp">
+      <Filter>Source\VRProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VRProject\VRProjectGameModeBase.h">
+      <Filter>Source\VRProject</Filter>
+    </ClInclude>
+    <Filter Include="Source\VRProject\Player">
+      <UniqueIdentifier>{C5CE541F-6739-4AAE-9EFA-7461E54336E2}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\VRProject\Player\cVRPlayerPawn.cpp">
+      <Filter>Source\VRProject\Player</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VRProject\Player\cVRPlayerPawn.h">
+      <Filter>Source\VRProject\Player</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

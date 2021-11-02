@@ -1,0 +1,20 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-VRProject-0025.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\361rj\OneDrive\Documents\Unreal Projects\VRProject\Intermediate\Build\Win64\VRProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\361rj\OneDrive\Documents\Unreal Projects\VRProject\Intermediate\Build\Win64\UE4Editor\Development\VRProject\cVRPlayerPawn.cpp.obj"
+"C:\Users\361rj\OneDrive\Documents\Unreal Projects\VRProject\Intermediate\Build\Win64\UE4Editor\Development\VRProject\ItemBase.cpp.obj"
+"C:\Users\361rj\OneDrive\Documents\Unreal Projects\VRProject\Intermediate\Build\Win64\UE4Editor\Development\VRProject\VRProject.cpp.obj"
+"C:\Users\361rj\OneDrive\Documents\Unreal Projects\VRProject\Intermediate\Build\Win64\UE4Editor\Development\VRProject\VRProjectGameModeBase.cpp.obj"
+"C:\Users\361rj\OneDrive\Documents\Unreal Projects\VRProject\Intermediate\Build\Win64\UE4Editor\Development\VRProject\cVRPlayerPawn.gen.cpp.obj"
+"C:\Users\361rj\OneDrive\Documents\Unreal Projects\VRProject\Intermediate\Build\Win64\UE4Editor\Development\VRProject\ItemBase.gen.cpp.obj"
+"C:\Users\361rj\OneDrive\Documents\Unreal Projects\VRProject\Intermediate\Build\Win64\UE4Editor\Development\VRProject\VRProject.init.gen.cpp.obj"
+"C:\Users\361rj\OneDrive\Documents\Unreal Projects\VRProject\Intermediate\Build\Win64\UE4Editor\Development\VRProject\VRProjectGameModeBase.gen.cpp.obj"
+"C:\Users\361rj\OneDrive\Documents\Unreal Projects\VRProject\Intermediate\Build\Win64\UE4Editor\Development\VRProject\Default.rc2.res"
+/OUT:"C:\Users\361rj\OneDrive\Documents\Unreal Projects\VRProject\Intermediate\Build\Win64\UE4Editor\Development\VRProject\UE4Editor-VRProject-0025.lib"
+/INCLUDE:IMPLEMENT_MODULE_VRProject

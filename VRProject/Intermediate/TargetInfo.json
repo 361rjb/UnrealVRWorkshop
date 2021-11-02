@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "VRProject",
+			"Path": "C:\\Users\\361rj\\OneDrive\\Documents\\Unreal Projects\\VRProject\\Source\\VRProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "VRProjectEditor",
+			"Path": "C:\\Users\\361rj\\OneDrive\\Documents\\Unreal Projects\\VRProject\\Source\\VRProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
